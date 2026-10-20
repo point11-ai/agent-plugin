@@ -1,0 +1,12 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "point11",
+  "version": "1.2.0",
+  "description": "Run Point11 operations for your organization: Inspector, Discovery, Alpha, Research, and more.",
+  "author": {
+    "name": "Point11",
+    "url": "https://point11.ai"
+  },
+  "homepage": "https://point11.ai",
+  "license": "LicenseRef-Point11-Terms"
+}
